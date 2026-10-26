@@ -1,6 +1,6 @@
 # Power BI Calendar Matrix
 
-A beginner-friendly Power BI project showcasing a calendar date table with calendar, weekday, weekend, and fiscal-period fields.
+For a Practice created a Power BI project showcasing a calendar date table with calendar, weekday, weekend, and fiscal-period fields.
 
 ## Overview
 
