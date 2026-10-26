@@ -7,25 +7,11 @@ A beginner-friendly Power BI project showcasing a calendar date table with calen
 This project demonstrates how dates can be organized into a calendar table and displayed in a Power BI report. The table contains one row per date, along with useful attributes for exploring dates by month, year, weekday, weekend status, and fiscal period.
 
 ## Report preview
-
-![Calendar Matrix report](screenshots/calendar-matrix.png)
-
-> Add a screenshot of your report to the `screenshots` folder and name it `calendar-matrix.png`, or update the image path above.
+<img width="1122" height="633" alt="image" src="https://github.com/user-attachments/assets/3151ccf5-abf5-4719-8c69-0f60bd97f4fb" />
 
 ## Date table fields
 
-| Field | Description |
-|---|---|
-| Date | Individual calendar date |
-| Month | Numeric month value |
-| Month Name | Short month name |
-| Year | Calendar year |
-| Year Month | Year and month in `YYYY-MM` format |
-| Weekday | Numeric weekday value |
-| Weekday Name | Name of the weekday |
-| Weekday/Weekend | Indicates whether the date is a weekday or weekend |
-| Is Weekend? | Weekend indicator |
-| Fiscal Period | Fiscal year and quarter label |
+<img width="1103" height="500" alt="image" src="https://github.com/user-attachments/assets/d711bf88-d888-4e77-afe7-ff24c51d063a" />
 
 ## Fiscal calendar
 
@@ -35,7 +21,7 @@ The report currently displays fiscal periods using an April–March fiscal-year 
 
 1. Download the `.pbix` file from this repository.
 2. Open it in Power BI Desktop.
-3. View the **Calendar Matrix** report page.
+3. View the **Calendar Matrix** Visual view for Matrix and Table view for Calculation.
 4. Explore the date table and its calendar and fiscal-period fields.
 
 ## Skills practiced
@@ -47,9 +33,10 @@ The report currently displays fiscal periods using an April–March fiscal-year 
 
 ## Project files
 
-- `Calendar-Matrix.pbix` — Power BI report
-- `screenshots/calendar-matrix.png` — report screenshot
-
+ **Power BI report:** [`Calendar-Matrix.pbix`](https://1drv.ms/u/c/a561cb0b6bb42b3f/IQDx1svba9QjQozK_r4EfwWqAb6MZfOzk4wC4_mQXMVLD3M?e=kQcAay)
+ 
+**Report screenshot:** <img width="1122" height="633" alt="image" src="https://github.com/user-attachments/assets/3151ccf5-abf5-4719-8c69-0f60bd97f4fb" />
+ 
 ## Future improvements
 
 - Add slicers for year and month.
